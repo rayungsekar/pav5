@@ -1,11 +1,11 @@
 Package: pav5
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Package Tentang Keliling, Luas, dan Volume beberapa Bangun 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Rayung
+Maintainer: Rayung <rayungsekar5603@gmail.com>
+Description: Package Tentang Keliling, Luas, dan Volume beberapa Bangun
+License: 'use_gpl3_license()'
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.2.3
